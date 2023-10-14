@@ -1,0 +1,22 @@
+label{
+    font-weight: bold;
+  }
+  
+input {
+    padding: 3px;
+    margin: 5px 0;
+    width: 35%;
+  }
+  
+.calcbutton{
+    background-color: rgb(2, 139, 237);
+    color: white;
+    margin-top: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+  
